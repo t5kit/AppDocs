@@ -21,4 +21,4 @@
 ### お問い合わせ先
 何かご不明な点がございましたら下記からお問い合わせください。
 
-[お問い合わせ](https://docs.google.com/forms/d/1gvsWUOTbp52GkgqdlEG2ENKqE5FSzekGmzOVHd_EhQI)
+[お問い合わせ](https://docs.google.com/forms/d/1gvsWUOTbp52GkgqdlEG2ENKqE5FSzekGmzOVHd_EhQI){:target="_blank"}
